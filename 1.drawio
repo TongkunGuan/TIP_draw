@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="第 1 页" id="kBypOAfSZk1u6mrDPFoE">
-    <mxGraphModel dx="514" dy="349" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="528" dy="358" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
             <mxPoint x="89.77000000000001" y="681" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OAVBk8aF4F6DvfkWOzso-19" value="(a) Spotting-assisted Method" style="text;whiteSpace=wrap;fontFamily=Comic Sans MS;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="OAVBk8aF4F6DvfkWOzso-19" value="(a) Spotting-assisted Methods" style="text;whiteSpace=wrap;fontFamily=Comic Sans MS;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="10" y="713" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OAVBk8aF4F6DvfkWOzso-20" value="(b) Localization-assisted Methods" style="text;whiteSpace=wrap;fontFamily=Comic Sans MS;fontSize=11;" parent="1" vertex="1">
@@ -40,7 +40,7 @@
         <mxCell id="OAVBk8aF4F6DvfkWOzso-30" value="&lt;div style=&quot;line-height: 80%;&quot;&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Comic Sans MS&quot;&gt;Levenshtein&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Comic Sans MS&quot;&gt;Distance&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="60" y="648" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OAVBk8aF4F6DvfkWOzso-63" value="(c) The first BPE-level Retrieval Methods" style="text;whiteSpace=wrap;fontFamily=Comic Sans MS;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="OAVBk8aF4F6DvfkWOzso-63" value="(c) The first BPE-level Retrieval Method" style="text;whiteSpace=wrap;fontFamily=Comic Sans MS;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="348.25" y="713" width="219.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XGcOZ-HvzKhXsVMXXGJh-16" value="" style="group" vertex="1" connectable="0" parent="1">
